@@ -1,16 +1,15 @@
-# Stay awhile and listen!
+# *Stay awhile and listen!*
 
 
 <div align="center">
   
-![profile programming](.assets/undraw_programming_65t2.svg)
+![profile programming](.assets/carbot_deckardcain.png "Deckard Cain, from the Diablo game franchise")
 
 </div>
 
 ## About Me
 
-I'm Victor. I'm a biologist with a master's in ecology and conservation biology. I feel passionate about learning and love to geek out about all things tech related, specially vintage tech.
-
+I'm Victor. I'm a [journeyman](https://en.wikipedia.org/wiki/Journeyman) developer. I'm  also a biologist with a master's in ecology and conservation biology. I feel passionate about learning and love to geek out about all things tech related, specially vintage tech.
 
 ## Programming journey
 
@@ -24,4 +23,5 @@ My first programming experience was as a kid back in the 1990's, creating my fir
 
 [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 
-Illustration by Katerina Limpitsouni on [unDraw](https://undraw.co)
+##
+Deckard Cain illustration by [CarBot Animations](https://carbotanimations.fandom.com/wiki/Deckard_Cain).
