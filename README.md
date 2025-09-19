@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![profile programming](https://github.com/xsabatox/xsabatox/undraw_programming_65t2.svg)
+![profile programming](https://github.com/xsabatox/xsabatox/.assets/undraw_programming_65t2.svg)
 
 </div>
 
