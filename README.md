@@ -1,4 +1,4 @@
-# *Stay awhile and listen!*
+# *Hello my friend! Stay awhile and listen!*
 
 
 <div align="center">
@@ -21,7 +21,7 @@ My first programming experience was as a kid back in the 1990's, creating my fir
 
 ## Some of the Tools I Have Prior Experience With
 
-[![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python)](https://skillicons.dev)
 
 ##
 Deckard Cain illustration by [CarBot Animations](https://carbotanimations.fandom.com/wiki/Deckard_Cain).
