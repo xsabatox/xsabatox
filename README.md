@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm Victor. I'm a [journeyman](https://en.wikipedia.org/wiki/Journeyman) developer. I'm  also a biologist with a master's in ecology and conservation biology. I feel passionate about learning and love to geek out about all things tech related, specially vintage tech.
+I'm Victor. I'm a [journeyman](https://en.wikipedia.org/wiki/Journeyman "A skilled worker, but not a master craftsman yet.") developer. I'm  also a biologist with a master's in ecology and conservation biology. I feel passionate about learning and love to geek out about all things tech related, specially vintage tech.
 
 ## Programming journey
 
