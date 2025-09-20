@@ -18,11 +18,16 @@ My first programming experience was as a kid back in the 1990s, creating my firs
 
 ## Tools I Have Been Using So Far
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
 
 ## Some of the Tools I Have Prior Experience With
 
-[![My Skills](https://skillicons.dev/icons?i=r,python)](https://skillicons.dev)
+[![Some Other Tools](https://skillicons.dev/icons?i=r,latex,python)](https://skillicons.dev)
+
+## I Also Tinker With
+
+[![I Tinker With](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
 
 ##
 Deckard Cain illustration by [CarBot Animations](https://carbotanimations.fandom.com/wiki/Deckard_Cain).
